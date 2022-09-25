@@ -23,6 +23,8 @@ IPFS -  This might be the key to enabling all other services as we will have th
 
 WiFi: Local wireless service tbd. 
 
-POTENTIAL Partners / ecosystem service providers: Potential organizations to invite into the EnviroMine global ecosystem: Hivemapper, DIMO, Weather XM, React Network, Boring Protocol, FileCoin, RevoFi, SKY360, Community Fi, MATCHx, DataHighway.
+RESOURSES TO BE CONSERVED: - Water, the most simple of life's elements, will become a very valuable resource if it is not already. Our sensors will enable much more efficient agricultural use of it. One of the so many environmental solutions EnviroMine Network can provide. 
+
+** POTENTIAL Partners / ecosystem service providers: Potential organizations to invite into the EnviroMine global ecosystem: Hivemapper, DIMO, Weather XM, React Network, Boring Protocol, FileCoin, RevoFi, SKY360, Community Fi, MATCHx, DataHighway SnowFlake, SalesForce....
 
 

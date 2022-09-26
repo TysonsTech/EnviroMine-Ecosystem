@@ -2,7 +2,7 @@
 
 Initiate discussion to re-purpose, broaden and rebrand the helium LoRa miner ecosystem into the world's largest Environmentally friendly ultra-low-power multi-token incentivized, multi-protocol global distributed service provider. LoRa (IoT token), dVPN (Boring Bop token), IPFS (filecoin type token), WiFi (WiFi Token), and 5G  (Helium Mobile token requires additional radio purchase). With more to come.
 
-Called EnviroMine, the new global ecosystem is composed of Low power environmentally friendly devices mining cryptocurrency as the main driver of ecosystem growth. Combined with a focus on bringing the people of the world together to solve a common goal of fixing ur environment. (LoRa, WiFi, 5G, dVPN, IPFS, etc...) {5G would need to be optional based on the current cost of entry}. 
+Called EnviroMine, the new global ecosystem is composed of Low power environmentally friendly devices mining cryptocurrency as the main driver of ecosystem growth. Combined with a focus on bringing the people of the world together to solve a common goal of providing data to help make our planet a better place to live. (LoRa, WiFi, 5G, dVPN, IPFS, etc...) {5G would need to be optional based on the current cost of entry}. 
 
 IPFS mining ability would come with the purchase of a 5-10 TB USB SSD HD customers add to their miners with the OS and storage we will need to expand future offerings. Customers decide what tokens they want to allocate and stake. We store all the minted hotspot NFTs and archive our blockchain data on our IPFS system.   
 

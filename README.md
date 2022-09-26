@@ -23,10 +23,16 @@ IPFS -  This might be the key to enabling all other services as we will have th
 
 WiFi: Local wireless service tbd. 
 
-RESOURSES TO BE CONSERVED: - Water, the most simple of life's elements, will become a very valuable resource if it is not already. Our sensors will enable much more efficient agricultural use of it. One of the so many environmental solutions EnviroMine Network can provide. 
+RESOURSES TO BE CONSERVED: - Water, the most simple of life's elements, will become a very valuable resource if it is not already. Our sensors will enable much more efficient agricultural use of it. One of the so many environmental solutions EnviroMine Network can provide.  
 
-- Populations
+- Population
 - Air Quality
+- Ice flows
+- Water quality
+- Agriculture
+- Transportation
+- LiveStock
+- Renewable Energy
 
 ** POTENTIAL Partners / ecosystem service providers:  Organizations to invite into the EnviroMine global ecosystem: #Hivemapper, #DIMO, Weather XM, #React Network, #Boring Protocol, #Airly, #FileCoin, #RevoFi, #SKY360, Community Fi, #MATCHx, DataHighway SnowFlake, SalesForce....
 

@@ -1,8 +1,8 @@
-# EnviroMine-Ecosystem - Stream of thought notes on Helium Ecosystem.
+# EnviroMine-Ecosystem - Stream of thought notes on The Helium Ecosystem.
 
-Initiate discussion to re-purpose and rebrand the helium LoRa miner ecosystem into the world's largest Environmentally friendly ultra-low-power multi-token incentivised, multi-protocol service provider (LoRa (IoT token), dVPN (Boring Bop token), IPFS (filecoin token), WiFi (WiFi Token), On 5G gateways only (Helium Mobile token w/ radio purchase). And more to come.
+Initiate discussion to re-purpose broaden and rebrand the helium LoRa miner ecosystem into the world's largest Environmentally friendly ultra-low-power multi-token incentivised, multi-protocol global distributed service provider (LoRa (IoT token), dVPN (Boring Bop token), IPFS (filecoin type token), WiFi (WiFi Token), On 5G gateways only (Helium Mobile token w/ radio purchase). And more to come.
 
-Called EnviroMine, the new ecosystem would incorporate (LoRa, dVPN, IPFS File Storage, WiFi, and 5G) 5G would need to be optional based on the current cost of entry. Initial launch includes 5 tokens added to the miner. IPFS comes with the addition of a 5-10 TB USB SSD HD customers add to their miners with the OS and storage we will need to expand offerings. Customers decide what they want to stake toward each project. We store all the minted hotspot NFTs and archive our blockchain data on our own IPFS system. 
+Called EnviroMine, the new global ecosystem would incorporate (LoRa, dVPN, IPFS services, WiFi, 5G, etc...) 5G would need to be optional based on the current cost of entry. Initial launch includes 5 tokens added to the miner lineup. IPFS comes with the addition of a 5-10 TB USB SSD HD customers add to their miners with the OS and storage we will need to expand offerings. Customers decide what they want to stake toward each project. We store all the minted hotspot NFTs and archive our blockchain data on our own IPFS system.  
 
 The focus and mission would be to utilize the existing global network of low-power ARM-based computers (Helium LoRa Miner hardware) already online worldwide, combined with web3, blockchain, and various wireless technologies to improve our planet through real-time global environmental, geophysical, and atmospheric data acquisition and processing and storage for global availability. 
 
@@ -25,6 +25,9 @@ WiFi: Local wireless service tbd. 
 
 RESOURSES TO BE CONSERVED: - Water, the most simple of life's elements, will become a very valuable resource if it is not already. Our sensors will enable much more efficient agricultural use of it. One of the so many environmental solutions EnviroMine Network can provide. 
 
-** POTENTIAL Partners / ecosystem service providers: Potential organizations to invite into the EnviroMine global ecosystem: Hivemapper, DIMO, Weather XM, React Network, Boring Protocol, FileCoin, RevoFi, SKY360, Community Fi, MATCHx, DataHighway SnowFlake, SalesForce....
+- Populations
+- Air Quality
+
+** POTENTIAL Partners / ecosystem service providers:  Organizations to invite into the EnviroMine global ecosystem: #Hivemapper, #DIMO, Weather XM, #React Network, #Boring Protocol, #Airly, #FileCoin, #RevoFi, #SKY360, Community Fi, #MATCHx, DataHighway SnowFlake, SalesForce....
 
 

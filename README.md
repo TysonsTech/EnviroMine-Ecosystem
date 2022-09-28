@@ -21,7 +21,7 @@ IPFS: This might be the key to unlocking a V.2 ecosystem by enabling all other 
 
 WiFi: Local wireless service could be accomplished with WiFi6 USB adapters. TBD. 
 
-RESOURCES TO BE CONSERVED: - Water, the most simple of life's elements. Our sensors will enable more efficient agricultural, industrial and commercial. One of the many environmental solutions the EnviroMine Network can provide. 
+NATURAL RESOURCES: - Water, the most simple of life's elements. Our sensors will enable more efficient agricultural, industrial and commercial. One of the many environmental solutions the EnviroMine Network can provide. 
 
 -Population
 -Air Quality

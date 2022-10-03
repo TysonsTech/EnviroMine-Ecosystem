@@ -36,5 +36,5 @@ NATURAL RESOURCES: - Water, the most simple of life's elements. Our sensors will
 -Ice Flows and Melting
 
 
-** POTENTIAL Partners/ecosystem service providers:  Organizations to invite into the EnviroMine global ecosystem: #Hivemapper, #DIMO, Weather XM, #React Network, #Boring Protocol, #Airly, #FileCoin, #RevoFi, #SKY360, Community Fi, #MATCHx, DataHighway SnowFlake, SalesForce....
+** POTENTIAL PARTNERS & Ecosystem service providers:  Organizations to invite into the EnviroMine global ecosystem: #Hivemapper, #DIMO, Weather XM, #React Network, #Boring Protocol, #Airly, #FileCoin, #RevoFi, #SKY360, Community Fi, #MATCHx, DataHighway SnowFlake, SalesForce....
 
